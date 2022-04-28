@@ -1,0 +1,16 @@
+.card{
+    background-size: cover;
+    border-radius: 10px;
+    margin: 10px;
+}
+.card:hover{
+    background-color: rgb(22, 120, 133);
+    color:yellow;
+    cursor: pointer;
+    transform: scale(1.04);
+    transition: all 0.5s ease;
+    flex-wrap: wrap;
+}
+img{
+    border-radius: 10px;
+}
